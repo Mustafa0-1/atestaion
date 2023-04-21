@@ -4,6 +4,8 @@ version = "0.1.0"
 description = ""
 authors = ["mustafanysan <mustafa.nysan@mail.ru>"]
 readme = "README.md"
+packages = [{include = "amazing_hunting"}]
+
 
 [tool.poetry.dependencies]
 python = "^3.10"
